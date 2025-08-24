@@ -12,7 +12,7 @@ langchain-core==0.3.74
 langsmith==0.4.14
 
 # 기타 유틸 패키지
-rich>=14.0.0,<15.0
+rich>=13.0.0,<14.0
 markdown-it-py>=2.2.0,<5.0
 pygments>=2.13.0,<3.0
 mdurl~=0.1
