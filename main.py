@@ -7,11 +7,6 @@ import os
 # .env 파일 로드
 #load_dotenv()
 api_key = os.environ["OPENAI_API_KEY"]
-<<<<<<< HEAD
-=======
-print("Test")
->>>>>>> c297faa (폴더 구조 정리 및 커밋 오류 수정)
-
 st.set_page_config(
     page_title="n행시 생성기",
     page_icon="✍️",
