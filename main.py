@@ -13,6 +13,8 @@ st.set_page_config(
     layout="centered"
 )
 
+print("1234")
+
 st.title("✍️ n행시 생성기 (LangChain + GPT-4o-mini)")
 st.markdown("아래 입력창에 단어를 넣으면 AI가 재치있는 n행시를 만들어 줍니다!")
 
